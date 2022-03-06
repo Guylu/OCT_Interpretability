@@ -8,4 +8,4 @@ We fit several architectures on the data in a supervised fashion, and interpret 
 In addition we look into the self supervised model called DINO (by FAIR), and investigate the usages of self supervised models in medical imaging ( transfer learning from ImageNet to Kermany dataset)
 
 
-![This is an image](https://ibb.co/c1VNMhF)
+![This is an image](https://www.dropbox.com/s/m9glj7rsbxzfz4z/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-1.png?dl=0)

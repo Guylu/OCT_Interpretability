@@ -10,11 +10,11 @@ In addition we look into the self supervised model called DINO (by FAIR), and in
 
 Check out video explaining the project of Youtube (use captions on):
 
-https://www.youtube.com/watch?v=97NHk06N5uY
+           https://www.youtube.com/watch?v=97NHk06N5uY
 
 
  
- 
+ _
 ![This is an image](http://drive.google.com/uc?id=1aiUoeCK1qD4JD5O-na7GM7f_zhR6ckp8)
 ![This is an image](http://drive.google.com/uc?id=1X7j1Ak4TjHXEsfkvFZw-jDgq437jfCmM)
 ![This is an image](http://drive.google.com/uc?id=13oXRCTriC0DaKZTmmBwcVfx2ociVPfNe)

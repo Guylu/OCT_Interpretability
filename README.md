@@ -23,3 +23,7 @@ Check out video explaining the project of Youtube (use captions on):
 ![This is an image](http://drive.google.com/uc?id=13oXRCTriC0DaKZTmmBwcVfx2ociVPfNe)
 ![This is an image](http://drive.google.com/uc?id=1oX77gJZENvKPG893qUsvNy5bEltSqFBE)
 ![This is an image](http://drive.google.com/uc?id=1TFCJC5LbgcnJZxkh4WmRbOJdklOxOu1b)
+
+
+Some additional results can be viewed on my weights & biases server:
+https://wandb.ai/guylu

@@ -9,6 +9,7 @@ In addition we look into the self supervised model called DINO (by FAIR), and in
 
 
 Check out video explaining the project of Youtube (use captions on):
+
 *
 *
 *

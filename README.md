@@ -1,6 +1,5 @@
 # OCT_Interpretability
 Project for Weizmann institute course: Deep Learning For Computer Vision.
-Project by Guy Lutsker, Hagai Ravid.
 
 Using OCT dataset provided by Kermany, we investigate differant deep learning methods (mostly transformers) and their application in medical imaging.
 We fit several architectures on the data in a supervised fashion, and interpret the models using Grad-CAM, Occlusion tests, and review the attention maps.

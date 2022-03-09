@@ -12,7 +12,7 @@ Check out video explaining the project of Youtube ***(use captions on :nerd_face
 *
 *
 *
-* https://www.youtube.com/watch?v=97NHk06N5uY  *
+* https://www.youtube.com/watch?v=97NHk06N5uY
 *
 *
 *

@@ -24,7 +24,7 @@ Check out video explaining the project of Youtube ***(use captions on :nerd_face
 ![This is an image](http://drive.google.com/uc?id=1TFCJC5LbgcnJZxkh4WmRbOJdklOxOu1b)
 
 <div align="center">
-  <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/im1.png">
+  <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-1.png">
 </div>
 
 Some additional results can be viewed on my weights & biases server :

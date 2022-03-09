@@ -17,6 +17,8 @@ Check out video explaining the project of Youtube ***(use captions on :nerd_face
 *
 *
 *
+
+Quick demonstration of how Vision models (in the example: ConvNext - A ConvNet for the 2020s [2022] ) learn a latent representation of the Kermany Retinal OCT scans dataset:
 </div>
 <div align="center">
   <img width="30%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/ConvNextLearning.gif">
@@ -28,6 +30,8 @@ Check out video explaining the project of Youtube ***(use captions on :nerd_face
 ![This is an image](http://drive.google.com/uc?id=1oX77gJZENvKPG893qUsvNy5bEltSqFBE)
 ![This is an image](http://drive.google.com/uc?id=1TFCJC5LbgcnJZxkh4WmRbOJdklOxOu1b)
 -->
+
+***Presenting our paper on OCT interpetability in deep learning***
 <div align="center">
   <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-1.png">
 </div>

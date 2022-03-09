@@ -50,5 +50,7 @@ Quick demonstration of how Vision models (in the example: ConvNext - A ConvNet f
   <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-5.png">
 </div>
 
+## Additional Results
+
 Some additional results can be viewed on my weights & biases server :
 https://wandb.ai/guylu

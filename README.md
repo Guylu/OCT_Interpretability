@@ -25,6 +25,14 @@ Quick demonstration of how Vision models (in the example: ConvNext - A ConvNet f
 <div align="center">
   <img width="30%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/ConvNextLearning.gif">
 </div>
+
+## DINO is Capable of Characterising Retinal Diseases
+DINO (Emerging Properties in Self-Supervised Vision Transformers [2021] ) is a self-supervised model by FAIR, and here we see that it is capable of transfering knowledge onto the Kermany dataset, with very limited training (5 epochs).
+
+</div>
+<div align="center">
+  <img width="30%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DINO_pic.png">
+</div>
 <!--
 ![This is an image](http://drive.google.com/uc?id=1aiUoeCK1qD4JD5O-na7GM7f_zhR6ckp8)
 ![This is an image](http://drive.google.com/uc?id=1X7j1Ak4TjHXEsfkvFZw-jDgq437jfCmM)

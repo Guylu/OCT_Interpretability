@@ -6,6 +6,7 @@ We fit several architectures on the data in a supervised fashion, and interpret 
 
 In addition we look into the self supervised model called DINO (by FAIR), and investigate the usages of self supervised models in medical imaging ( transfer learning from ImageNet to Kermany dataset)
 
+## Video Explanation
 
 Check out video explaining the project of Youtube ***(use captions on :nerd_face:)***:
 
@@ -17,6 +18,7 @@ Check out video explaining the project of Youtube ***(use captions on :nerd_face
 *
 *
 *
+## Small example of project visualization
 
 Quick demonstration of how Vision models (in the example: ConvNext - A ConvNet for the 2020s [2022] ) learn a latent representation of the Kermany Retinal OCT scans dataset:
 </div>

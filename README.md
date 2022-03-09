@@ -17,14 +17,27 @@ Check out video explaining the project of Youtube ***(use captions on :nerd_face
 *
 *
 *
+<!--
 ![This is an image](http://drive.google.com/uc?id=1aiUoeCK1qD4JD5O-na7GM7f_zhR6ckp8)
 ![This is an image](http://drive.google.com/uc?id=1X7j1Ak4TjHXEsfkvFZw-jDgq437jfCmM)
 ![This is an image](http://drive.google.com/uc?id=13oXRCTriC0DaKZTmmBwcVfx2ociVPfNe)
 ![This is an image](http://drive.google.com/uc?id=1oX77gJZENvKPG893qUsvNy5bEltSqFBE)
 ![This is an image](http://drive.google.com/uc?id=1TFCJC5LbgcnJZxkh4WmRbOJdklOxOu1b)
-
+-->
 <div align="center">
   <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-1.png">
+</div>
+<div align="center">
+  <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-2.png">
+</div>
+<div align="center">
+  <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-3.png">
+</div>
+<div align="center">
+  <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-4.png">
+</div>
+<div align="center">
+  <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DL4CV_Report_Guy_Lutsker_Hagai_Ravid-5.png">
 </div>
 
 Some additional results can be viewed on my weights & biases server :

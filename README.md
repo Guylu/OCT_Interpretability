@@ -31,7 +31,7 @@ DINO (Emerging Properties in Self-Supervised Vision Transformers [2021] ) is a s
 
 </div>
 <div align="center">
-  <img width="30%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DINO_pic.png">
+  <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="imgs/DINO_pic.png">
 </div>
 <!--
 ![This is an image](http://drive.google.com/uc?id=1aiUoeCK1qD4JD5O-na7GM7f_zhR6ckp8)
